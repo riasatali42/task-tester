@@ -79,7 +79,7 @@ export default function BasicDemo() {
       <div className="flex flex-row gap-2 flex-wrap">
         {(tasks || []).map((task) => {
           return (
-            <Card title={task.title} key={task.id} className="w-8rem">
+            <Card title={task.title} key={task.id} className="w-12rem">
               <div>Assigned to: {selectedUser.name}</div>
               <div>Priority: P-{task.priority}</div>
               <p>{task.description}</p>
