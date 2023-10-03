@@ -8,7 +8,7 @@ To configure the backend, follow these steps:
 
 Once the configuration is done, proceed with the following commands to set up and run the backend:
 
-Run these commands:
+Run these commands on `backend` directory:
 
 ```bash
 npm install
@@ -19,7 +19,7 @@ npm start
 
 ## Setting up the Frontend
 
-Run these commands:
+Run these commands on `frontend` directory:
 
 ```bash
 npm install
