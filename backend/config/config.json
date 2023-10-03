@@ -1,8 +1,8 @@
 {
   "development": {
     "username": "postgres",
-    "password": "1234",
-    "database": "TaskTester",
+    "password": "826688",
+    "database": "node_hero",
     "host": "localhost",
     "dialect": "postgres"
   },
